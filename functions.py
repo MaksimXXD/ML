@@ -57,6 +57,8 @@ def run_length_encoding(x):
     return arr,numb
 
 
+
+
 def pairwise_distance(x, y):
     arr = []
     for i in range(len(x)):
